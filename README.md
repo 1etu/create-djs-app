@@ -1,6 +1,6 @@
 <p align="center"><h1 align="center">create-djs-app</h1></p>
 <p align="center">
-	<em><code>A modern CLI tool to quickly create and set up Discord.js bots with best practices and minimal configuration.</code></em>
+	<em>A modern CLI tool to quickly create and set up Discord.js bots with best practices and minimal configuration.</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/1etu/create-djs-app?style=default&logo=opensourceinitiative&logoColor=white&color=3fa27c" alt="license">
@@ -35,7 +35,7 @@
 
 ##  Overview
 
-<code>CLI to bootstrap Discord.js bot projects</code>
+A modern Command Line Interface (CLI) tool designed to quickly create and set up Discord.js bots. This tool follows best practices and requires minimal configuration, making it ideal for both beginners and experienced developers. With create-djs-app, you can effortlessly bootstrap your Discord bot projects, ensuring a structured and efficient development process. The tool supports both JavaScript and TypeScript, providing flexibility and ease of use. Additionally, it includes features such as slash commands support, event handlers, and utility functions to help you get started with your bot development right away.
 
 
 
@@ -52,7 +52,6 @@
 
 ###  Project Index
 <details open>
-	<summary><b><code>CREATE-DJS-APP/</code></b></summary>
 	<details> <!-- __root__ Submodule -->
 		<summary><b>__root__</b></summary>
 		<blockquote>
@@ -167,11 +166,5 @@ Run create-djs-app using the following command:
 ##  License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. For more details, refer to the [LICENSE](LICENSE) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
 
 ---
