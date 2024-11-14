@@ -1,0 +1,16 @@
+{
+  "name": "@etulastrada/create-djs-app",
+  "version": "1.0.2",
+  "description": "CLI to bootstrap Discord.js bot projects",
+  "main": "index.js",
+  "bin": {
+    "create-djs-app": "index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0",
+    "inquirer": "^9.2.10",
+    "fs-extra": "^11.1.1"
+  }
+}
